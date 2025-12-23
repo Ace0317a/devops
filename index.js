@@ -1,2 +1,2 @@
 console.log("Hello World");
-console.log("Learning CI/CD Pipeline");
+console.log("Learning CI/CD Pipeline.");
